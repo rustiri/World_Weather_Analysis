@@ -6,10 +6,10 @@ Analysis, visualization, and statistical skills by retrieving and analyzing weat
 The following tasks to complete:
 
 1.	Collect and analyze weather data across cities worldwide.
-•	Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
-•	Use the citipy module to list the nearest city to the latitudes and longitudes.
-•	Use the OpenWeatherMap API to request the current weather data from each unique city in your list.
-•	Parse the JSON data from the API request.
+  *	Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
+  *	Use the citipy module to list the nearest city to the latitudes and longitudes.
+  * Use the OpenWeatherMap API to request the current weather data from each unique city in your list.
+  * Parse the JSON data from the API request.
 
 2.	Visualize Travel Data: Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences i.e. information about the city, current maximum temperature, a hotel in the city and travel mode (driving, walking, bicycling).
 
