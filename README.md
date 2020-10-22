@@ -18,3 +18,4 @@ The following tasks to complete:
 - Software: Python 3.7, Matplotlib, Jupyter Notebook, OpenWeatherMap API and Google’s Map API
 
 ## Summary
+The customer can use input statement to filter the data for their weather preferences. From the list of potential travel destinations, they can choose four cities to create travel itinerary. By using Google Map Direction, they can also see the travel route between the four cities.
