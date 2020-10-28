@@ -1,5 +1,5 @@
 # World Weather Analysis with Python APIs
-The purpose of this project is to create an app to analyze weather data on specific cities based on a customer's travel preference. By using Google Map Direction, customer can also see the travel route between the four cities. The software used in this project were Matplotlib, Jupyter Notebook, OpenWeatherMap API and Google’s Map API
+The purpose of this project is to create an app to analyze weather data on specific cities based on a customer's travel preference. By using Google Map Direction, customer can also see the travel route between the four cities. The software used in this project were Matplotlib, Jupyter Notebook, OpenWeatherMap API and Google’s Map API.
 
 ## Overview of Project
 Analysis, visualization, and statistical skills by retrieving and analyzing weather data for a hypothetical travel company, PlanMyTrip.
